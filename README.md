@@ -27,7 +27,7 @@ Quand les 3 vies sont perdues, un signal sonore de mort est émis, les vies sont
 ## 📁 Fichiers
 - PROGRAMME_LASER_GAME_PLASTRON.ino – Code du plastron (récepteur IR + affichage OLED).
 - PROGRAMME_LASER_GAME_PISTOLET.ino – Code du pistolet (émission IR + feedback).
-- *.svg – Fichiers PCB (plastron/pistolet) pour la fabrication des circuits imprimés.
+- *.dxf / *.svg – Fichiers PCB (plastron/pistolet) pour la fabrication des circuits imprimés.
 
 ## 🔌 Schéma de câblage
 Les fichiers .svg fournis contiennent les différentes couches PCB nécessaires à la fabrication.
