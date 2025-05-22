@@ -30,4 +30,4 @@ Quand les 3 vies sont perdues, un signal sonore de mort est émis, les vies sont
 - *.dxf / *.svg – Fichiers PCB (plastron/pistolet) pour la fabrication des circuits imprimés.
 
 ## 🔌 Schéma de câblage
-Les fichiers .svg fournis contiennent les différentes couches PCB nécessaires à la fabrication.
+Les fichiers .dxf et .svg fournis contiennent les différentes couches PCB nécessaires à la fabrication.
